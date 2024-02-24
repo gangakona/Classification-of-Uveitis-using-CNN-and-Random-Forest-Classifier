@@ -39,5 +39,6 @@ then be fed into the Random Forest model for further classification. The
 Random Forest model will leverage decision trees to capture complex
 relationships among the extracted features and make predictions on the
 uveitis subtypes.
+## Fundus Dataset
 
 
