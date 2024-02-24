@@ -1,0 +1,9 @@
+The dataset consists of Normal, Diabetic Retinopathy, Cataract and
+Glaucoma retinal images where each class have approximately 1000
+images. These images are collected from various sorces like IDRiD, Oculur
+recognition, HRF etc. As the Approach of project is Binary classification we
+used Cataract and Glaucoma retinal images for training and validating the
+data
+
+https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-
+classification
