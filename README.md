@@ -43,3 +43,5 @@ uveitis subtypes.
 ![download](https://github.com/gangakona/Classification-of-Uveitis-using-CNN-and-Random-Forest-Classifier/assets/110378442/94e2754d-3a2c-495c-a018-99704fd82371)
 
 ![Fundus Dataset](https://drive.google.com/file/d/1my-9rnvLkvfkxRU0XxBBNsTCu24VXBTR/view?usp=drive_link)
+## Random Forest Classifier
+![download](https://github.com/gangakona/Classification-of-Uveitis-using-CNN-and-Random-Forest-Classifier/assets/110378442/94e2754d-3a2c-495c-a018-99704fd82371)
