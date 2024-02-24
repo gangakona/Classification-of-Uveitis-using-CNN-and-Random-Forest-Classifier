@@ -1,4 +1,4 @@
-# Classification of Uveitis using CNN anf Random Forest Classifier
+# Classification of Uveitis using CNN and Random Forest Classifier
 
 The problem addressed in this project is the accurate and efficient
 classification of various eye diseases using fundus images. Manual
@@ -46,3 +46,6 @@ uveitis subtypes.
 ## Random Forest Classifier
 
 ![download](https://github.com/gangakona/Classification-of-Uveitis-using-CNN-and-Random-Forest-Classifier/assets/110378442/86dce07d-135f-4fd9-9516-d137b6ce9f0b)
+
+## Confusion Matrix
+![Screenshot (8)](https://github.com/gangakona/Classification-of-Uveitis-using-CNN-and-Random-Forest-Classifier/assets/110378442/f27dacd1-830d-4c33-8d39-2a1e6fff6ec9)
